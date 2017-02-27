@@ -7,7 +7,7 @@
 
 // remove \r, \n, \s, \t by regexp
 function getNoBlankText(el){
-	return el.replace(/[\r\n\t]/gi, '').replace(/\s{2,}/, '').trim();
+	return el.replace(/\s/gi, '').trim();
 }
 
 // create a virtual element and select all for copy
