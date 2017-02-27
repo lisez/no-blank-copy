@@ -1,0 +1,13 @@
+{
+	"appName": {
+		"message": "No Blank Copy"
+	},
+
+	"appDesc": {
+		"message": "Copy the selected text wihout blanks, tabs, linebreaks, etc."
+	},
+
+	"menuTitle": {
+		"message": "No Blank Copy"
+	}
+}

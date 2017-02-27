@@ -1,0 +1,13 @@
+{
+	"appName": {
+		"message": "無空白複製"
+	},
+
+	"appDesc": {
+		"message": "僅複製純文字內容，將所有換行、縮排、空格全部移除。"
+	},
+
+	"menuTitle": {
+		"message": "無空白複製"
+	}
+}
