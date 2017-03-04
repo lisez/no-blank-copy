@@ -7,7 +7,7 @@
   "description": "__MSG_appDesc__",
   "background": {
     "persistent": false,
-    "scripts": ["script.js"]
+    "scripts": ["script.js", "executeCopy.js", "getNoBlankString.js"]
   },
   "permissions" : ["clipboardWrite", "contextMenus"]
 }
